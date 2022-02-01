@@ -6,10 +6,10 @@ To design a wire frame for a website.
 ## DESIGN STEPS:
 
 ### Step 1:
-Write your design steps here 
+Open Pencil Software.
 
 ### Step 2:
-Write your design steps here
+Design your webpage forusing Windows Desktop sketchy GUI.
 
 ## OUTPUT:
 ### Home Page:
